@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arun9739
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Development, Competitive programming, Web programming, Java development
+- 🌱 I’m currently learning Computer Science and Engineering
+- 💞️ I’m looking to collaborate on cpp, java, web designing etc.
 - 📫 How to reach me nayakarun02@gmail.com
 
 <!---
