@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science and Engineering
 - 💞️ I’m looking to collaborate on cpp, java, web designing etc.
 - 📫 How to reach me nayakarun02@gmail.com
+- Reach me at LinkedIn : https://www.linkedin.com/in/arun-nayak-1b7510209/
 
 <!---
 Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
