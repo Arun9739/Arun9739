@@ -10,7 +10,10 @@ Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun9739&show_icons=true&theme=radical)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arun9739&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h3> Brief about my contribution trophies </h3>
 
