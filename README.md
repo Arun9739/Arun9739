@@ -29,3 +29,7 @@ You can click the Preview link to take a look at your changes.
 <h3> Languages : </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun9739&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3> Holopin badges : </h3>
+
+[![@arun_nayak's Holopin board](https://holopin.me/arun_nayak)](https://holopin.io/@arun_nayak)
