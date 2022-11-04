@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Arun9739
-- 👀 I’m interested in Open source contribution, Competitive programming, Web programming etc.
-- 🌱 I’m currently learning Computer Science and Engineering
-- 💞️ I’m looking to collaborate on cpp, java, web designing etc.
-- 📫 How to reach me nayakarun02@gmail.com
-- Reach me at LinkedIn : https://www.linkedin.com/in/arun-nayak-1b7510209/
+<h1 align="center"> Hi 👋, I am Arun G Nayak </h1>
+<p align="center">
+    <a href="https://github.com/siddhi-244"><img src="coder.gif "/></a> 
+</p>
 
 <!---
 Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
