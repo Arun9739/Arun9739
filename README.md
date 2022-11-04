@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I am Arun G Nayak </h1>
 <p align="center">
-    <a href="https://github.com/siddhi-244"><img src="coder.gif "/></a> 
+    <a href="https://github.com/Arun9739"><img align="center" height="300" width="425" alt="" src="coder.gif "/></a> 
 </p>
 
 <!---
