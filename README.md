@@ -3,6 +3,12 @@
     <a href="https://github.com/Arun9739"><img align="center" height="300" width="425" alt="" src="coder.gif "/></a> 
 </p>
 
+<h2 align="center"> 👨‍💻 Who am I?</h2>
+<p align="center">
+  <samp> I am a engineering student from KLS GIT.
+</samp><br>
+</p>
+
 <!---
 Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
