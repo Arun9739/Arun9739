@@ -11,6 +11,14 @@
 </samp><br>
 </p>
 
+<h2 align="center">Connect with me </h2>
+
+<div align="center">
+
+<a href = "https://instagram.com/arun_nayak_2002" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="80" height="80"></a>
+
+</div>
+
 <h2 align="center"> 🔭 Tech Stack</h2>
     <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="70" height="70" />
@@ -58,3 +66,5 @@ You can click the Preview link to take a look at your changes.
 <h3> Holopin badges : </h3>
 
 [![@arun_nayak's Holopin board](https://holopin.me/arun_nayak)](https://holopin.io/@arun_nayak)
+
+
