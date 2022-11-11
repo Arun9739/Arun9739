@@ -15,8 +15,12 @@
 
 <div align="center">
 
+<a href = "mailto:nayakarun02@gmail.com" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201382070-00f1f9ba-c37d-4b0a-9270-730e1d646b91.png" alt="instagram" width="80" height="80"></a>
+<a href = "www.linkedin.com/in/arun-g-nayak" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" alt="instagram" width="80" height="80"></a>
+<a href = "https://twitter.com/arunnayakg7" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/201380771-3ce2a265-2d21-4ebf-9553-c4e70fb647d0.png" width="80" height="80"></a>
 <a href = "https://instagram.com/arun_nayak_2002" target ="blank"> <img src="https://user-images.githubusercontent.com/84305637/200871156-ce91fea1-4c78-4666-8a36-02963b357ce5.png" alt="instagram" width="80" height="80"></a>
-
+    
+    
 </div>
 
 <h2 align="center"> 🔭 Tech Stack</h2>
@@ -37,7 +41,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="70" height="70" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="70" height="70" />
     </p>
-"
+
 <!---
 Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
