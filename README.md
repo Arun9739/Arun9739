@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<!---
+Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <h1 align="center"> Hi 👋, I am Arun G Nayak </h1>
 <p align="center">
@@ -11,7 +14,7 @@
 </samp><br>
 </p>
 
-<h2 align="center">Connect with me </h2>
+<h2 align="center"> How to reach me </h2>
 
 <div align="center">
 
@@ -25,8 +28,8 @@
 
 <h2 align="center"> 🔭 Tech Stack</h2>
     <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="70" height="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="70" height="70" />
+        <a href="https://www.programiz.com/c-programming"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="70" height="70" /></a>
+        <a href="https://www.programiz.com/cpp-programming"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="70" height="70" /></a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="70" height="70" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="70" height="70" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="70" height="70" />
@@ -42,18 +45,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="70" height="70" />
     </p>
 
-<!---
-Arun9739/Arun9739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<hr>
+
+<h2 align="center">My Github Stats</h2>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Arun9739&show_icons=true&theme=radical" alt="Arun's github stats">
+</div>
 
 <br>
 
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun9739&show_icons=true&theme=radical)
-
-<br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Arun9739&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Arun9739&theme=radical&date_format=j%20M%5B%20Y%5D">
+</div>
 
 <br>
 
