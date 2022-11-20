@@ -60,11 +60,11 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-<h3> Brief about my contribution trophies </h3>
+<h2 align="center"> Contribution trophies </h2>
+<div align="center">
+    [![trophy](https://github-profile-trophy.vercel.app/?username=Arun9739)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arun9739&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br>
 
 <h3> Languages : </h3>
 
