@@ -62,7 +62,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> Contribution trophies </h2>
 <div align="center">
-    [![trophy](https://github-profile-trophy.vercel.app/?username=Arun9739)](https://github.com/ryo-ma/github-profile-trophy)
+    
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arun9739)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
