@@ -66,6 +66,10 @@ You can click the Preview link to take a look at your changes.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Arun9739)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+<div align="center">
+     
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Arun9739&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+</div>
 
 <h3> Languages : </h3>
 
