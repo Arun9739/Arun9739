@@ -72,9 +72,12 @@ You can click the Preview link to take a look at your changes.
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Arun9739&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 </div>
 
-<h3> Languages : </h3>
+<h3 align="center"> Languages </h3>
+
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun9739&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h3> Holopin badges : </h3>
 
