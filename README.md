@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="center"> 👨‍💻 Who am I?</h2>
 <p align="center">
-  <samp> I am a engineering student from KLS GIT, who is focusing on Open source contribution. I am interested in web development, competitive programming and machine learning.
+  <samp> I am a engineering student from KLS GIT, who is focusing on Open source contribution. I am interested in web development, competitive programming, machine learning. Eager to learn new things.
 </samp><br>
 </p>
 
@@ -37,8 +37,8 @@ You can click the Preview link to take a look at your changes.
         <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="70" height="70" /></a>
         <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70" /></a>
         <a href="https://www.w3schools.com/bootstrap/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="70" height="70" /></a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="70" height="70" />
+        <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="70" height="70" /></a>
+        <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="70" height="70" /></a>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter-notebook" width="70" height="70" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="70" height="70" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="70" height="70" />
