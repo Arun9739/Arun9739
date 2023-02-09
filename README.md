@@ -87,3 +87,6 @@ You can click the Preview link to take a look at your changes.
 [![@arun_nayak's Holopin board](https://holopin.me/arun_nayak)](https://holopin.io/@arun_nayak)
 </div>
 
+<div align="Center">
+    <img src="https://stats.quine.sh/arun-nayak/github" alt="Arun's github stats">
+</div>
