@@ -61,6 +61,12 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+<div align="Center">
+    <img src="https://stats.quine.sh/arun-nayak/github" alt="Arun's github stats">
+</div>
+
+<br>
+
 <h2 align="center"> Contribution trophies </h2>
 <div align="center">
     
@@ -85,8 +91,4 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 
 [![@arun_nayak's Holopin board](https://holopin.me/arun_nayak)](https://holopin.io/@arun_nayak)
-</div>
-
-<div align="Center">
-    <img src="https://stats.quine.sh/arun-nayak/github" alt="Arun's github stats">
 </div>
